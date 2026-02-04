@@ -23,6 +23,3 @@ All solutions are written using clean, efficient, and beginner-friendly Python c
 - **Concepts:** Loops, Conditions, Arrays, Bitwise Operators
 
 ---
-
-## 📁 Project Structure
-
